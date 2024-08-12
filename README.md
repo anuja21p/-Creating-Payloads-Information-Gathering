@@ -1,5 +1,6 @@
- 1)Veil Framework - Payload Creation
+ 1) Veil Framework - Payload Creation :
 This repository contains the work completed during my internship, focusing on creating payloads using the Veil Framework. Veil is an advanced tool used for generating various types of payloads, primarily aimed at bypassing antivirus detection. This project dives into the creation, testing, and deployment of these payloads within a controlled environment.
+
 Project Objectives:
 1.Understand the Veil Framework: Gain a deep understanding of how the Veil Framework operates, including its architecture and functionalities.
 2.Payload Creation: Create different types of payloads using the Veil Framework and customize them for specific use cases.
@@ -9,8 +10,9 @@ Project Objectives:
 Ethical Considerations:
 This project is purely educational and should only be used in environments where you have explicit permission to test. Unauthorized use of these techniques can be illegal and unethical.
 
-2) Information Gathering (Reconnaissance Attack) on College Websites
+2) Information Gathering (Reconnaissance Attack) on College Websites :
 This repository contains the work related to information gathering, also known as reconnaissance, targeting college websites. This project involves techniques and tools used to collect information about the target systems to understand their vulnerabilities and potential attack vectors.
+
 Project Objectives
 1.Understand Reconnaissance Techniques: Explore different methods of information gathering, including passive and active reconnaissance.
 2.Target Identification: Identify and select college websites for information gathering based on defined ethical parameters.
